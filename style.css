@@ -1,0 +1,116 @@
+*
+.head{
+    display: flex;
+    justify-content: space-between;
+    background-color: #39579a;
+    height: 50px;
+}
+.logo{
+    height: 50px;
+    margin-top: 0px;
+    margin-left: 50px;
+}
+.headlift{
+    display: flex;
+    margin-right: 50px;
+    color: white;
+}
+.login{
+    display: flex;
+
+}
+.email{
+    margin-right: 10px;
+}
+.login p{
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+#buttonlogin{
+    height: 21px;
+    margin-top: 23px;
+    margin-left: 10px;
+    color: white;
+    background-color: #627aac;
+}
+.content{
+    background-color: #f2f4f8;
+    width: auto;
+    height: auto;
+    display: flex;
+
+}
+.liftcontent{
+    
+    height: 310px;
+    width: 400px;
+    margin-left: 50px;
+    color: #194166;
+    font-weight: bold;
+    font-size: large;
+    margin-top: 0px;
+    padding-top: 20px;
+}
+img{
+    width: 100%;
+}
+.rightcontent{
+    width: 300px;
+    height: auto;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.form p{
+    display:inline-block;
+    margin: 3px;
+}
+.square{
+    border-color: #a3b1cc;
+    display: inline-block;
+    width: 178px;
+    height: 20px;
+    margin: 2px;
+}
+.rightcontent>*{
+    margin: 0px;
+}
+.sex{
+    margin-left: 75px;
+}
+.birthday{
+    margin-left: 45px;
+}
+.words{
+    margin-left: 112px;
+}
+.submit{
+    color: white;
+    background-color: #68a54c;
+    width: 86px;
+    margin-top: 15px;
+}
+.gray{
+    color: gray;
+    margin-top: 0px;
+}
+.font{
+    color: #194166;
+}
+.footer{
+    width: 700px;
+    margin-left: 200px;
+}
+.last{
+    display: flex;
+    justify-content: space-between;
+}
+.last p{
+    margin-top: 0px;
+}
+.last p:first-child{
+    width: 358px;
+}
+p {
+    text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
+    color: white;
+ }
